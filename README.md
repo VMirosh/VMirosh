@@ -1,6 +1,6 @@
 
 
-### Hi there! My name is Vlad and I'm a Front-End  Developer 👋
+### Hi there! My name is Vlad 👋
 - :telescope: I enjoy coding, creating websites, working in team and I am enthusiastic about learning new technology.
 - :seedling: With a passion for both personal growth and for software development, ready to apply my skills
  to a talented engineering team to develop quality solutions.
